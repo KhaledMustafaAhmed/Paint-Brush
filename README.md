@@ -15,10 +15,6 @@ The `Shape` class defines an abstract `draw()` method. Each subclass (`Line`, `R
 ### **3. Encapsulation**
 Each shape class encapsulates its properties (color, position, size) and behavior (how it is drawn). This hides the implementation details from other parts of the program and allows for better organization and maintenance.
 
-# Paint Applet Project
-
-This is a simple paint application implemented in Java as an Applet. It allows users to draw different shapes (Line, Rectangle, and Oval) with various colors and fill styles (Solid and Dotted). The user can also clear the canvas with a button click.
-
 ## Features
 
 - **Draw Shapes**: Users can choose between different shapes: 
